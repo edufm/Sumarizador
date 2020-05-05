@@ -1,3 +1,6 @@
+# Dados Tokenizados
+cnn_stories_tokenized/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
